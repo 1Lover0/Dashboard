@@ -1,0 +1,14 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    margin: 20px 10px ;
+}
+.sidebar .logo{
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+}
+.sidebar .logo span{
+    font-weight: 500;
+    font-size: 18px;
+}
